@@ -45,3 +45,33 @@ body {
 .banner{
   margin-top: 60px;
 }
+.image{
+  margin: 60px auto;
+}
+.image img{
+  width: 1250px;
+}
+.FEATURES-START{
+  color: white;
+  text-align: center;
+}
+.FEATURES-END-TEXT-1{
+  color: white;
+}
+.FEATURES-END-TEXT-2{
+  color: white;
+}
+.FEATURES-END-TEXT-3{
+  color: white;
+}
+.FEATURES-END{
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.FEATURES-END-IMAGE img{
+width: 600px;
+height: 600px;
+}
