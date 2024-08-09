@@ -28,3 +28,20 @@ body {
   align-items: center;
   gap: 100px;
 }
+.banner-text{
+  color: white;
+  text-align: center;
+}
+.banner-btn{
+  text-align: center;
+}
+.btn-1{
+  color: white;
+  background: #7781FE;
+  padding: 8px;
+  border: 2px solid #7781FE;
+  width: 100px;
+}
+.banner{
+  margin-top: 60px;
+}
