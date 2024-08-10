@@ -286,7 +286,7 @@ height: 600px;
 }
 .footer-text-4-icons{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
-  gap: 5px;
+  font-size: 2rem;
 }
